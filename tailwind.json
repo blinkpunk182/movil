@@ -1,0 +1,140 @@
+{
+	"flex": {
+		"style": {
+			"display": "flex"
+		}
+	},
+	"h-64": {
+		"style": {
+			"height": 256
+		}
+	},
+	"h-[90px]": {
+		"style": {
+			"height": 90
+		}
+	},
+	"h-[90rem]": {
+		"style": {
+			"height": 1440
+		}
+	},
+	"h-[1/2]": {
+		"style": {
+			"height": "1/2"
+		}
+	},
+	"h-1/2": {
+		"style": {
+			"height": "50%"
+		}
+	},
+	"h-screen": {
+		"style": {
+			"height": "100vh"
+		}
+	},
+	"h-72": {
+		"style": {
+			"height": 288
+		}
+	},
+	"w-64": {
+		"style": {
+			"width": 256
+		}
+	},
+	"w-1/2": {
+		"style": {
+			"width": "50%"
+		}
+	},
+	"w-9/12": {
+		"style": {
+			"width": "75%"
+		}
+	},
+	"w-10/12": {
+		"style": {
+			"width": "83.333333%"
+		}
+	},
+	"w-screen": {
+		"style": {
+			"width": "100vw"
+		}
+	},
+	"w-72": {
+		"style": {
+			"width": 288
+		}
+	},
+	"flex-1": {
+		"style": {
+			"flexGrow": 1,
+			"flexShrink": 1,
+			"flexBasis": "0%"
+		}
+	},
+	"items-center": {
+		"style": {
+			"alignItems": "center"
+		}
+	},
+	"justify-center": {
+		"style": {
+			"justifyContent": "center"
+		}
+	},
+	"rounded-full": {
+		"style": {
+			"borderTopLeftRadius": 9999,
+			"borderTopRightRadius": 9999,
+			"borderBottomRightRadius": 9999,
+			"borderBottomLeftRadius": 9999
+		}
+	},
+	"bg-blue-500": {
+		"style": {
+			"--tw-bg-opacity": 1,
+			"backgroundColor": "rgb(59 130 246 / var(--tw-bg-opacity))"
+		}
+	},
+	"bg-green-500": {
+		"style": {
+			"--tw-bg-opacity": 1,
+			"backgroundColor": "rgb(34 197 94 / var(--tw-bg-opacity))"
+		}
+	},
+	"bg-red-500": {
+		"style": {
+			"--tw-bg-opacity": 1,
+			"backgroundColor": "rgb(239 68 68 / var(--tw-bg-opacity))"
+		}
+	},
+	"bg-white": {
+		"style": {
+			"--tw-bg-opacity": 1,
+			"backgroundColor": "rgb(255 255 255 / var(--tw-bg-opacity))"
+		}
+	},
+	"p-8": {
+		"style": {
+			"paddingTop": 32,
+			"paddingRight": 32,
+			"paddingBottom": 32,
+			"paddingLeft": 32
+		}
+	},
+	"text-[200px]": {
+		"style": {
+			"fontSize": 200
+		}
+	},
+	"text-white": {
+		"style": {
+			"--tw-text-opacity": 1,
+			"color": "rgb(255 255 255 / var(--tw-text-opacity))"
+		}
+	}
+}

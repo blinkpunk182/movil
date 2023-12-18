@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "task-voice-rn",
+    "sdkVersion": "42.0.0",
+    "slug": "task-voice-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "permissions": [
+      "CAMERA_ROLL",
+      "AUDIO_RECORDING",
+      "LOCATION",
+      "BLUETOOTH"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.davidvelez.taskvoicern",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ac558132-b574-47df-aa3e-199e0a0ca24b"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4c5b0e11-6120-4dca-886f-d168d7f7261f"
+      }
+    }
+  }
+}
