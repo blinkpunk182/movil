@@ -78,7 +78,9 @@ export default App = () => {
         mensaje: "El tutorado se ha salido del perimentro",
         fecha: formatearFecha(new Date()),
         ubicacion: JSON.stringify(ubicacion),
+        nombreCompleto: `${tutorado?.nombre} ${tutorado?.apellido}`,
       };
+
       const resp = await saveNotification(data);
       if (resp) {
         socket.emit("notificacion", data);
